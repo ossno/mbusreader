@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/ossno/readmbus#README",
   "dependencies": {
-    "mbusparser": "git+https://gitlab.com/ossrepos/mbusparser.git",
+    "mbusparser": "git+https://github.com/ossno/mbusparser",
     "serialport": "^7.0.2"
   }
 }
