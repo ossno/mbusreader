@@ -1,0 +1,23 @@
+{
+  "name": "mbusreader",
+  "version": "1.0.0",
+  "description": "Example program that reads mbus data from a serial port and decodes with MBusParser",
+  "main": "mbusreader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oss Norge AS",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ossno/readmbus"
+  },
+  "bugs": {
+    "url": "https://github.com/ossno/readmbus/issues"
+  },
+  "homepage": "https://github.com/ossno/readmbus#README",
+  "dependencies": {
+    "mbusparser": "git+https://gitlab.com/ossrepos/mbusparser.git",
+    "serialport": "^7.0.2"
+  }
+}
