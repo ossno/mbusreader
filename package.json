@@ -10,12 +10,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ossno/readmbus"
+    "url": "git+https://github.com/ossno/mbusreader"
   },
   "bugs": {
-    "url": "https://github.com/ossno/readmbus/issues"
+    "url": "https://github.com/ossno/mbusreader/issues"
   },
-  "homepage": "https://github.com/ossno/readmbus#README",
+  "homepage": "https://github.com/ossno/mbusreader#mbusreader",
   "dependencies": {
     "mbusparser": "git+https://github.com/ossno/mbusparser",
     "serialport": "^7.0.2"
