@@ -1,5 +1,5 @@
 const MBusParser = require("mbusparser");
-const OssBrikkenUSB = "/dev/ttyS13";
+const OssBrikkenUSB = "/dev/ttyUSB0";
 const SerialPort = require('serialport')
 
 const port = new SerialPort(OssBrikkenUSB, {
